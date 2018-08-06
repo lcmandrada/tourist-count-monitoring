@@ -21,3 +21,4 @@ pyinstaller view.spec
 # Note
 
 The input are sent to the tourist directory where detected and recognized faces are also saved.
+Also, change the <directory> at view.spec to the folder containing the files.
