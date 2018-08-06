@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['view.py'],
-             pathex=['L:\\Lev\\Documents\\work\\python\\projects\\tourist\\build'],
+             pathex=['<directory>'],
              binaries=[],
              datas=[],
              hiddenimports=['PyQt5.sip'],
