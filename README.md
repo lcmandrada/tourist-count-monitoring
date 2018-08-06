@@ -8,7 +8,12 @@ The input image is sent to the server on a local network through ESP8266 WiFi mo
 
 # Build
 
-It can be built by executing PyInstaller on view.spec.
+It can be started by executing python3 on view.py.
+```
+python3 view.py
+```
+
+And it can be built by executing PyInstaller on view.spec.
 ```
 pyinstaller view.spec
 ```
